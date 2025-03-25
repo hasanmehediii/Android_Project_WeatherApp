@@ -4,3 +4,41 @@ Download the .apk file in your mobile to run the application
 
 Link: [Drive](https://drive.google.com/drive/folders/1v6ZTG5L9biWKp6_-cMf-C0tvbJWvnNP1)
 
+# Weather App
+
+A simple Kotlin-based weather application that allows users to search for a city and view real-time weather details, including temperature, weather conditions, local time, and other relevant information. This app provides an intuitive and seamless experience for checking the weather anywhere around the world.
+
+## Features
+
+- **City Search**: Enter the name of a city to search for weather information.
+- **Weather Data**: Displays current weather conditions such as temperature, humidity, wind speed, and weather description.
+- **Weather Icon**: Shows the corresponding weather condition image (e.g., sunny, rainy, cloudy).
+- **Local Date & Time**: Displays the local date and time of the selected city.
+- **Additional Info**: Includes other useful data like pressure, visibility, etc.
+
+## Technologies Used
+
+- **Kotlin**: The main programming language used for building the app.
+- **OpenWeatherMap API**: Provides the real-time weather data and condition images.
+- **Android SDK**: For developing the Android application (if it's an Android app).
+- **Retrofit**: For making network requests to fetch weather data from the API.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+2. Open the project in Android Studio (or any Kotlin-compatible IDE).
+
+3. Make sure you have the necessary dependencies configured in your `build.gradle` file:
+
+   ```gradle
+   dependencies {
+       implementation "com.squareup.retrofit2:retrofit:2.x.x"
+       implementation "com.squareup.retrofit2:converter-gson:2.x.x"
+
+   }  ```
+
+4. 
+
