@@ -3,7 +3,7 @@
 Download the .apk file in your mobile to run the application
 
 Link: [Drive](https://drive.google.com/drive/folders/1v6ZTG5L9biWKp6_-cMf-C0tvbJWvnNP1)
-
+Video: [Demo](https://youtube.com/shorts/JoENU6rynCQ?si=Yd2e_0YYbaBQ3Jo-)
 # Weather App
 
 A simple Kotlin-based weather application that allows users to search for a city and view real-time weather details, including temperature, weather conditions, local time, and other relevant information. This app provides an intuitive and seamless experience for checking the weather anywhere around the world.
