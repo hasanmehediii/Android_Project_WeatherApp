@@ -40,5 +40,31 @@ A simple Kotlin-based weather application that allows users to search for a city
 
    }  ```
 
-4. 
+4. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api) and add it to your project:
+5. To Run on your mobile, Generate the apk file in: Build -> Bind Apk
+
+## Usage
+
+1. Launch the app on your Android device.
+2. Enter a city name in the search bar and press search.
+3. View real-time weather data including temperature, humidity, wind speed, and weather conditions.
+4. Observe the local time and date of the selected city.
+
+## Screenshots
+
+_Add screenshots of the app interface here._
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Contact
+
+For any queries, feel free to reach out:
+- **GitHub**: [hasan-mehedii](https://github.com/hasan-mehedii)
+- **Email**: [mehedi-2022415897@cs.du.ac.bd](mailto:mehedi-2022415897@cs.du.ac.bd)
 
