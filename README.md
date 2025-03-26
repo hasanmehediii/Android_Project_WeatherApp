@@ -52,7 +52,8 @@ A simple Kotlin-based weather application that allows users to search for a city
 
 ## Screenshots
 
-_Add screenshots of the app interface here._
+![UI](images/pic1.jfif)
+![UI](images/pic2.jfif)
 
 ## License
 
