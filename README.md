@@ -28,7 +28,7 @@ A simple Kotlin-based weather application that allows users to search for a city
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/hasan-mehedii/Android_Project_WeatherApp.git
 2. Open the project in Android Studio (or any Kotlin-compatible IDE).
 
 3. Make sure you have the necessary dependencies configured in your `build.gradle` file:
