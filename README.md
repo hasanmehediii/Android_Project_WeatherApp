@@ -1,4 +1,4 @@
-# Weather App
+# Weather Application
 
 <p align="center">
   <img src="weather-app.png" alt="App Logo" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
@@ -72,6 +72,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## Contact
 
 For any queries, feel free to reach out:
-- **GitHub**: [hasan-mehedii](https://github.com/hasan-mehedii)
+- **GitHub**: [hasanmehediii](https://github.com/hasanmehediii)
 - **Email**: [mehedi-2022415897@cs.du.ac.bd](mailto:mehedi-2022415897@cs.du.ac.bd)
 
