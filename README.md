@@ -3,7 +3,7 @@
 <p align="center">
   <img src="weather-app.png" alt="App Logo" width="150" height="150" style="border-radius: 50%; border: 2px solid #ccc;" />
   <br>
-  <strong>LA beginner type Native App</strong>
+  <strong>A beginner type Native App</strong>
 </p>
 
 A simple Kotlin-based weather application that allows users to search for a city and view real-time weather details, including temperature, weather conditions, local time, and other relevant information. This app provides an intuitive and seamless experience for checking the weather anywhere around the world.
